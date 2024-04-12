@@ -1,4 +1,4 @@
-# C Note MERN Project:
+# C Note MERN Project
 
 Welcome to the C Note MERN Project! This project is a simple note-taking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, read, update, and delete notes.
 
